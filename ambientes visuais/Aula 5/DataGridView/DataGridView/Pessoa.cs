@@ -10,7 +10,7 @@ namespace DataGridView
     {
         public string Nome { get; set; }
         public string DataNascimento { get; set; }
-        public char sexo { get; set; }
+        public char Sexo { get; set; }
         public bool NecessidadesEspeciais{ get; set; }
         public string RG { get; set; }
         public string CPF { get; set; }

@@ -16,3 +16,12 @@ C:\Users\BT1\Google Drive\TADS\3º Semestre\ambientes visuais\Aula 4\Aula04\Aula
 C:\Users\BT1\Google Drive\TADS\3º Semestre\ambientes visuais\Aula 4\Aula04\Aula04\obj\Debug\Aula04.Form1.resources
 C:\Users\BT1\Google Drive\TADS\3º Semestre\ambientes visuais\Aula 4\Aula04\Aula04\obj\Debug\Aula04.Properties.Resources.resources
 C:\Users\BT1\Google Drive\TADS\3º Semestre\ambientes visuais\Aula 4\Aula04\Aula04\obj\Debug\Aula04.csproj.GenerateResource.Cache
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 4\Aula04\Aula04\bin\Debug\Aula04.exe.config
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 4\Aula04\Aula04\bin\Debug\Aula04.exe
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 4\Aula04\Aula04\bin\Debug\Aula04.pdb
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 4\Aula04\Aula04\obj\Debug\Aula04.csprojResolveAssemblyReference.cache
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 4\Aula04\Aula04\obj\Debug\Aula04.Form1.resources
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 4\Aula04\Aula04\obj\Debug\Aula04.Properties.Resources.resources
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 4\Aula04\Aula04\obj\Debug\Aula04.csproj.GenerateResource.Cache
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 4\Aula04\Aula04\obj\Debug\Aula04.exe
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 4\Aula04\Aula04\obj\Debug\Aula04.pdb

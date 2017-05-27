@@ -39,6 +39,7 @@ namespace listBox_Eventos
         {
             FormComboBox frmv = new FormComboBox();
             frmv.Show();
+            this.Close();
         }
     }
 }

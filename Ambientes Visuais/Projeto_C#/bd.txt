@@ -1,0 +1,28 @@
+create table cadastro(
+	id_cad numeric (10) not null primary key,
+    nome varchar(40) not null,
+    email varchar (40) not null,
+    senha varchar (8) not null
+);
+
+create table fornecedor (
+	id_for numeric (10) not null primary key,
+    nome varchar (40) not null,
+    cnpj numeric (14) not null,
+    endereco varchar (40) not null,
+    telefone varchar (12) not null
+);
+
+create table produto (
+	id_prod numeric (10) not null primary key,
+    produto varchar (40) not null,
+    quantidade numeric (10) not null,
+    valor_unid numeric (4) not null
+);
+
+insert into fornecedor (id_for, nome, cnpj, endereco, telefone) values (1,'Corona',12345678910111);
+insert into fornecedor (id_for, nome, cnpj, endereco, telefone) values (2,'Budweiser',09876543212345);
+insert into fornecedor (id_for, nome, cnpj, endereco, telefone) values (3,'Heineken',87654345670921);
+insert into fornecedor (id_for, nome, cnpj, endereco, telefone) values (4,'Skol',97543160842741);
+
+drop table 
