@@ -35,10 +35,9 @@ namespace Projeto_CRUD.Model
             {
                 conexao = Conectadb.getConexao(); 
 
-                string sql = "insert into produto (id_prod, produto, quantidade, valor_unit) values (@id_prod, @produto, @quantidade, @valor_unit)";
+                string sql = "insert into produto (produto, quantidade, valor_unit) values (@produto, @quantidade, @valor_unit)";
 
                 NpgsqlCommand cmd = new NpgsqlCommand(sql, conexao);
-                cmd.Parameters.Add(new NpgsqlParameter("@id_prod", this.id_produto));
                 cmd.Parameters.Add(new NpgsqlParameter("@produto", this.produto));
                 cmd.Parameters.Add(new NpgsqlParameter("@quantidade", this.qtd));
                 cmd.Parameters.Add(new NpgsqlParameter("@valor_unit", this.valor_unit));
