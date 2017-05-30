@@ -67,6 +67,13 @@ namespace Projeto_CRUD.Model
         {
             return this.fornecedor;
         }
-   
+
+      
+        //NpgsqlConnection cnx = new NpgsqlConnection("CONNECTIONSTRING");
+        //string comando = "insert in to produto (forn_pkey) values ("'+fornecedor+'")";
+
+          
+        
+        
     }
 }

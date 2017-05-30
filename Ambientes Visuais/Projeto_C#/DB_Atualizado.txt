@@ -1,5 +1,5 @@
 create table cadastro(
-	id_cad numeric (10) not null primary key,
+	id_cad serial not null primary key,
     cargo varchar (15) not null,
     nome varchar (40) not null,
     rg numeric (9) not null,
@@ -10,8 +10,9 @@ create table cadastro(
 );
 
 create table fornecedor (
-	id_forn numeric (10) not null primary key,
-    fornecedor varchar (40) not null
+	id_forn serial,
+    fornecedor varchar (40) not null,
+    constraint forn_pkey primary key (fornecedor)
 );
 
 create table produto (
@@ -19,6 +20,11 @@ create table produto (
     produto varchar (40) not null,
     quantidade numeric (10) not null,
     valor_unit numeric (4) not null,
-    id_forn numeric (10),
-    constraint id_forn foreign key (id_forn) references fornecedor (id_forn)
+    forn_pkey varchar (40),
+    constraint forn_pkey foreign key (forn_pkey) references fornecedor (fornecedor)
 );
+
+insert into fornecedor (fornecedor) values ('AmBev');
+
+drop table fornecedor;
+drop table produto;
