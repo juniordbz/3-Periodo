@@ -1,0 +1,9 @@
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Prova\Prova\obj\Debug\Prova.csprojResolveAssemblyReference.cache
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Prova\Prova\obj\Debug\Prova.Locadora.resources
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Prova\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Prova\Prova\obj\Debug\Prova.csproj.GenerateResource.Cache
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Prova\Prova\obj\Debug\Prova.pdb

@@ -1,0 +1,24 @@
+C:\Users\Jr\Desktop\Projeto_C#\Projeto_CRUD\Projeto_CRUD\bin\Debug\Projeto_CRUD.exe.config
+C:\Users\Jr\Desktop\Projeto_C#\Projeto_CRUD\Projeto_CRUD\bin\Debug\Projeto_CRUD.exe
+C:\Users\Jr\Desktop\Projeto_C#\Projeto_CRUD\Projeto_CRUD\bin\Debug\Projeto_CRUD.pdb
+C:\Users\Jr\Desktop\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.csprojResolveAssemblyReference.cache
+C:\Users\Jr\Desktop\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.formCadastro.resources
+C:\Users\Jr\Desktop\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.Properties.Resources.resources
+C:\Users\Jr\Desktop\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.csproj.GenerateResource.Cache
+C:\Users\Jr\Desktop\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.exe
+C:\Users\Jr\Desktop\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.pdb
+C:\Users\Jr\Desktop\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.formCadastro_Funcionario.resources
+C:\Users\Jr\Desktop\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.formCad_Produtos.resources
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\bin\Debug\Projeto_CRUD.exe.config
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\bin\Debug\Projeto_CRUD.exe
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\bin\Debug\Projeto_CRUD.pdb
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\bin\Debug\Mono.Security.dll
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\bin\Debug\Npgsql.dll
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.csprojResolveAssemblyReference.cache
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.formCadastro_Funcionario.resources
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.formCad_Produtos.resources
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.formCadastro.resources
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.Properties.Resources.resources
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.csproj.GenerateResource.Cache
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.exe
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Projeto_C#\Projeto_CRUD\Projeto_CRUD\obj\Debug\Projeto_CRUD.pdb
