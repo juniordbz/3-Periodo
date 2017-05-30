@@ -1,0 +1,10 @@
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 5\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 5\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 5\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 5\DataGridView\DataGridView\obj\Debug\DataGridView.csprojResolveAssemblyReference.cache
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 5\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 5\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 5\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.Cache
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 5\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 5\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
+C:\Users\Jr\Documents\GitHub\3-Periodo\Ambientes Visuais\Aula 5\DataGridView\DataGridView\obj\Debug\DataGridView.login.resources
