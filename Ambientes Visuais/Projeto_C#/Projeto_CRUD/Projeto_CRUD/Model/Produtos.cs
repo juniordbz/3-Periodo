@@ -35,12 +35,13 @@ namespace Projeto_CRUD.Model
             {
                 conexao = Conectadb.getConexao(); 
 
-                string sql = "insert into produto (produto, quantidade, valor_unit) values (@produto, @quantidade, @valor_unit)";
+                string sql = "insert into produto (produto, quantidade, valor_unit,forn_pkey ) values (@produto, @quantidade, @valor_unit, @forn_pkey)";
 
                 NpgsqlCommand cmd = new NpgsqlCommand(sql, conexao);
                 cmd.Parameters.Add(new NpgsqlParameter("@produto", this.produto));
                 cmd.Parameters.Add(new NpgsqlParameter("@quantidade", this.qtd));
                 cmd.Parameters.Add(new NpgsqlParameter("@valor_unit", this.valor_unit));
+                cmd.Parameters.Add(new NpgsqlParameter("@forn_pkey", this.fornecedor));
                 cmd.ExecuteNonQuery();
             }
             catch (Exception e)

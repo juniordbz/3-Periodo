@@ -25,6 +25,8 @@ namespace Projeto_CRUD
             try
             {
                 Produtos produtos = new Produtos();
+                Fornecedor forn= new Fornecedor();
+                forn.fornecedor = cbFornecedores.SelectedItem.ToString();
                 produtos.produto = tbProduto.Text;
                 produtos.qtd = int.Parse(tbQuantidade.Text);
                 produtos.valor_unit = double.Parse(tbValor.Text);
